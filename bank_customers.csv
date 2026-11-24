@@ -1,0 +1,9 @@
+CustomerID,Age,Gender,Income,Balance,CreditScore,LoanStatus,AccountType,Tenure,City 
+1,25,Male,35000,5000,720,No,Savings,3,Delhi 
+2,45,Female,55000,20000,690,Yes,Current,10,Mumbai 
+3,35,Male,45000,15000,710,No,Savings,6,Bangalore
+4,52,Female,70000,30000,650,Yes,Current,12,Delhi 
+5,28,Male,32000,4000,730,No,Savings,2,Pune
+6,60,Female,80000,35000,600,Yes,Current,15,Mumbai 
+7,40,Male,50000,10000,705,No,Savings,8,Delhi 
+8,30,Female,42000,8000,670,Yes,Current,4,Bangalore
